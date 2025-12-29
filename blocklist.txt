@@ -1,0 +1,59 @@
+! Title: Absolute Security (Computrace) Domain Blocklist
+! Description: Block domains used by Absolute Software (formerly Computrace) for remote monitoring and management
+! Homepage: https://github.com/grinreap3r/Absolute-Domain-Blocklist
+! License: MIT
+! Last modified: 2025-12-29
+! Entries: 35
+
+! Absolute Software Main Domains
+||absolute.com^
+||absolutesoftware.com^
+||computrace.com^
+
+! Absolute Agent Communication Domains
+||agent.absolute.com^
+||agentapi.absolute.com^
+||api.absolute.com^
+||monitoring.absolute.com^
+||reporting.absolute.com^
+||telemetry.absolute.com^
+
+! Absolute Services and Infrastructure
+||services.absolute.com^
+||rpcproxy.absolute.com^
+||rpc.absolute.com^
+||search.namequery.com^
+||namequery.com^
+
+! Absolute Update and Download Servers
+||download.absolute.com^
+||updates.absolute.com^
+||cdn.absolute.com^
+||software.absolute.com^
+
+! Absolute Cloud Services
+||cloud.absolute.com^
+||console.absolute.com^
+||admin.absolute.com^
+||portal.absolute.com^
+
+! Legacy Computrace Domains
+||rpcproxy-chi.lb.ldcm.computrace.com^
+||rpcproxy-prd-iad.lb.ldcm.computrace.com^
+||rpcproxy-prd-sjc.lb.ldcm.computrace.com^
+||ldcm.computrace.com^
+||lb.ldcm.computrace.com^
+
+! Additional Absolute Infrastructure
+||abs-data.com^
+||absolutedata.com^
+||abs-software.com^
+
+! Persistent Agent Domains
+||persistentagent.absolute.com^
+||persistentservices.absolute.com^
+
+! Analytics and Tracking
+||analytics.absolute.com^
+||metrics.absolute.com^
+||tracking.absolute.com^
